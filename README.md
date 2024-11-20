@@ -1,6 +1,10 @@
 <h1>Next Internationalization</h1>
 <p>This Next.js application demonstrates internationalization (i18n) using next-i18next. It supports English and Arabic locales with locale-based routing and translation files.</p>
 
+<h2>Dependencies</h2>
+
+<p>npm install i18next react-i18next i18next-resources-to-backend next-i18n-router</p>
+
 <h2>Live Demo</h2>
 
 https://next-internationalization-chi.vercel.app/
